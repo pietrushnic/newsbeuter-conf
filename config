@@ -40,3 +40,4 @@ bind-key j down
 bind-key O open-in-browser-and-mark-read
 
 browser "iceweasel %u"
+text-width 80
